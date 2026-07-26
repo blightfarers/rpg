@@ -1,3 +1,27 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+//fix modible header / navigation bar transparency
+@media (max-width: 800px) {
+  .page > #quartz-body .sidebar.left {
+    background-color: color-mix(in srgb, var(--light) 92%, transparent) !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+}
+
+//creating consistent spacing across elements from obsidian to site conversion. Originally Tables above Header had odd spacing. Applied only to content rendered in body/main from Obsidian content. Leaves sidebar content alone.
+.markdown-rendered p,
+.markdown-rendered table,
+.markdown-rendered ul,
+.markdown-rendered ol,
+.markdown-rendered blockquote,
+.markdown-rendered pre {
+  margin: 1em 0;
+}
+
+.markdown-rendered table th,
+.markdown-rendered table td {
+  vertical-align: middle;
+}

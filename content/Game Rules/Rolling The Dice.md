@@ -1,12 +1,11 @@
 ---
-title: Making A Check
+title:
 sort:
 ---
-
 As is typical of TTRPGs, whenever a character attempts something dangerous, difficult, or uncertain, the GM may call for a Check. When you make a Check, typically you are rolling to answer one of these questions against whatever is at stake in your circumstances:
 
 1. Do you complete (this action) here and now?
-2. Can you get to the next phase of a longer, more complex, or detailed action?
+2. Can you get to the next part of a longer, more complex, or detailed action?
 3. Your success or failure is sure, but how much time or other resources are lost? In other words, can you mitigate the potential consequences of your act?
 
 As an example, you might be rolling simply to pick a lock (question #1), or to correctly move each pin on your turn while your allies do battle and stall off the enemy (question #2). Instead, maybe you can definitely pick the lock, but can you do so without drawing attention and leaving signs of your presence (question #3)?

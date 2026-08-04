@@ -1,18 +1,28 @@
 ---
-title: Equipment
+title:
 ---
+## Overloaded (Character Status)
+You are Overloaded when something (or the combination of things) you are holding, wearing, carrying, or dragging is:
+
+- Particularly awkwardly shaped and weighted
+- Very heavy for most characters
+- Is large enough that a single person shouldn’t carry it on their own (even if by weight alone they could)
+- Interruptive to athletic action or requires significant concentration while acting to maintain
+
+While you are Overloaded suffer Disadvantage on actions that require explosiveness, strength, endurance, balance, or focused concentration.
+
+There is no load or weight mechanic - this will be guesstimated as needed by your game Facilitator. 
 ## Tools, Gear, Facilities
 Usually tools offer one or more of these types of benefits:
-Guarantee success at the cost of time, money, or other resources
-Count as an Asset for certain rolls
-Make certain acts possible
-Improvised tools might do so with disadvantage
-Low quality ones might have a small Hindrance attached
-Increase the speed of an action
-Allow the benefit of specific traits or abilities
-
+- Guarantee success at the cost of time, money, or other resources
+- Count as an Asset for certain rolls
+- Make certain acts possible
+	- Improvised tools might do so with disadvantage
+	- Low quality ones might have a small Hindrance attached
+- Increase the speed of an action
+- Allow the benefit of specific traits or abilities
 ## Armor
-Armor offers Protection, which reduces damage received on a 1:1 ratio before counting it against your WT.
+Armor offers Protection, which reduces damage received on a 1:1 ratio before counting it against your Wound Threshold.
 
 When armor is donned in a rush, taking only one turn, it includes only the most vital or essential parts of the armor set (this might be a helm, gloves, & breastplate for example). Reduce its normal Protection rating by 2. Donning a full-body armor suit takes several minutes. 
 
@@ -22,27 +32,27 @@ By default, all armor causes the wearer to suffer Disadvantage on checks to swim
 
 Armor may have additional drawbacks including:
 
-- <u></u>Heavy: endurance checks have Disadvantage, and checks to swim or stay afloat automatically fail.
-- <u></u>Loud: checks to move silently have Disadvantage.
-- <u></u>Rigid: checks where acrobatics and flexible movement are a focus have Disadvantage.
-- <u></u>Flashy: this armor draws attention; you take Disadvantage to hide or if you are not hiding, others take Advantage to spot you - whichever is most appropriate in the circumstances.
+- <u>*Heavy*</u>: endurance checks have Disadvantage, and checks to swim or stay afloat automatically fail.
+- <u>*Loud*</u>: checks to move silently have Disadvantage.
+- <u>*Rigid*</u>: checks where acrobatics and flexible movement are a focus have Disadvantage.
+- <u>*Flashy*</u>: this armor draws attention; you take Disadvantage to hide or if you are not hiding, others take Advantage to spot you - whichever is most appropriate in the circumstances.
 
 Armor may also have compensatory or beneficial traits, including:
 
-- <u></u>Cuttable: this armor is made with straps or cords that can be cut in an emergency. Others might be able to cut your straps as well, but they suffer Disadvantage to do so if you are mobile and resisting.
-- <u></u>Swimmable: this armor does not cause Disadvantage on swimming checks after all, even if the armor is Heavy.
-- <u></u>Breathable: this armor does not provide Disadvantage on endurance checks after all, even if the armor is Heavy.
-- <u></u>Spiked: this armor functions as a 2d6 and automatically deals its damage each round you are grappling or grappled.
-- <u></u>Insulating: this armor grants you Advantage to withstand freezing temperatures.
-- <u></u>Camouflaged: this armor blends in granting Advantage to hide.
-- <u></u>Resistant: Against listed special attack types the armor provides its normal Protection rating instead of half. Against common attack types the armor provides + 2 Protection.
-- <u></u>Glancing: this armor is a +1 Asset to all defense checks.
+- <u>*Cuttable*</u>: this armor is made with straps or cords that can be cut in an emergency. Others might be able to cut your straps as well, but they suffer Disadvantage to do so if you are mobile and resisting.
+- <u>*Swimmable*</u>: this armor does not cause Disadvantage on swimming checks after all, even if the armor is Heavy.
+- <u>*Breathable*</u>: this armor does not provide Disadvantage on endurance checks after all, even if the armor is Heavy.
+- <u>*Spiked*</u>: this armor functions as a 2d6 and automatically deals its damage each round you are grappling or grappled.
+- <u>*Insulating*</u>: this armor grants you Advantage to withstand freezing temperatures.
+- <u>*Camouflaged*</u>: this armor blends in granting Advantage to hide.
+- <u>*Resistant*</u>: Against listed special attack types the armor provides its normal Protection rating instead of half. Against common attack types the armor provides + 2 Protection.
+- <u>*Glancing*</u>: this armor is a +1 Asset to all defense checks.
 
 Armor may also provoke modified behavior from certain creatures or groups:
 
-- <u></u>Pacifies (X): alters behavior of listed creatures, such that they react neutrally towards you until provoked.
-- <u></u>Angers (X): alters behavior of listed creatures, if reasonable they will aim their aggression at you before others, or plan to do so when they can get a tempting opportunity.
-- <u></u>Intimidates (X): provokes altered behavior from listed creatures, causing them to be uncomfortable and avoidant when in your presence and to avoid hunting you when other options may be present.
+- <u>*Pacifies (X)*</u>: alters behavior of listed creatures, such that they react neutrally towards you until provoked.
+- <u>*Angers (X)*</u>: alters behavior of listed creatures, if reasonable they will aim their aggression at you before others, or plan to do so when they can get a tempting opportunity.
+- <u>*Intimidates (X)*</u>: provokes altered behavior from listed creatures, causing them to be uncomfortable and avoidant when in your presence and to avoid hunting you when other options may be present.
 
 Less common armor traits are listed as special effects and described separately.
 

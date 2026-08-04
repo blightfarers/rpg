@@ -1,7 +1,7 @@
+Evoking magic is fast, brutal, and dangerous - at least in comparison to ritual magic. Evoking can be performed by magical practitioners of many traditions though the methodology and philosophy behind each tradition varies.
+
 ---
-title: Magic of Estaron
-order: "23"
----
+
 Despite the implications of the fragmentation of divine magic, magic at large is still an important part of the world of Estaron. People eventually find ways to adapt, survive, and even thrive. At least until something more comes around to put them down again.
 
 Throughout history there have been many magical theories and traditions but at the root of it all a mage must be able to attune to the forces of magic, channel it by their mind & will, and withstand the consequences that come to mortals from wielding such powers themselves.

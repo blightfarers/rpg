@@ -75,6 +75,8 @@ While your Sickness Track is at Stage 3 your Daily Recovery Check has modified r
 
 When you make your Daily Recovery Check, the first time you would recover a lost health level instead move your Sickness Track back a stage once. After Daily Recovery, still make your Sickness Check like normal.
 ## Elemental Exposure
+*Development Note: this should be functional, however, an exposure system similar to the sickness track is floating around in my head and might be more engaging. Exposure Track where there is minimal, moderate, or severe exposure that can then be tied into common and rare magical weather effects  alike.*
+
 A character is Comfortable when they are sheltered from the elements, free from immediate danger, and have a cozy place to rest for several hours.
 
 A Comfortable character gains Advantage on Daily Recovery, Sickness, & Death Checks or recover Tired more easily.

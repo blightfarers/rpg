@@ -1,3 +1,7 @@
+Note: remove mana harness. Flesh out magic as class traits.
+
+---
+
 Evoking magic is fast, brutal, and dangerous - at least in comparison to ritual magic. Evoking can be performed by magical practitioners of many traditions though the methodology and philosophy behind each tradition varies.
 
 ---

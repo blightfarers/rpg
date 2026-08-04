@@ -1,7 +1,6 @@
----
-title: Structure of Combat
----
+Note: simplify explanation, clarify applications.
 
+---
 ## Turns - The Martial Exchange
 Combat in Blight-Farers revolves around martial exchanges. A martial exchange occurs whenever one character takes aggressive action with real intent and another must respond or suffer the consequences. The structure of a martial exchange is not only mechanical - it is a frame for GM’s to build narration and combat transitions off of.
 

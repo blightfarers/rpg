@@ -16,3 +16,6 @@ Time is explicitly built into the game as a narrative cue for health, weather, n
 
 In particular, your Facilitator may make Facilitator Checks for weather, faction actions, and how much your attracting additional encounters as appropriate for the adventuring area.
 
+Facilitators - weather is an important consideration both for setting the tone of a scene and for adding obstacles or modifying relative difficulty in an encounter. That means it's better to be purposeful with how you employ weather. 
+
+That said, [[empire-weather.pdf |Empire Weather]] is a simple tool for generating weather randomly. It can be useful to roll for weather in advance so that you can telegraph it throughout the stages and phases of the day, or even the day before - that said, for sudden storms rolling for the current phase or stage can be okay, just understand that its natures equivalent of a sneak attack to your players.

@@ -1,5 +1,6 @@
----
-title:
+
+Note: re-organize, remove Storm Farer specific equipment.
+
 ---
 ## Overloaded (Character Status)
 You are Overloaded when something (or the combination of things) you are holding, wearing, carrying, or dragging is:

@@ -19,27 +19,33 @@ If your roll total does not meet the Difficulty, you Fail - the question of the 
 If your roll total meets or exceeds the Difficulty but is not a Triumph, you Hit. A Hit is a standard success, so the Check is answered positively as one would expect. If your roll total exceeds the Difficulty by 4 or more, you achieve a Triumph. The question of the check is answered positively, and exceptionally so. You’ll get some additional reward or at least look awesome for a moment. 
 
 ### Check Difficulty
-The GM is the person who sets the check difficulty.
+The GM is the person who sets the check difficulty, which they guestimate at the time they determine a roll of the dice is needed.
 
 This chart displays rough ranges for tiers of difficulty you might encounter in the game:
 
-| Difficulty | Beginner | Experienced | Veteran | Master |
-|---:|:---:|:---:|:---:|:---:|
-| Easy | 8-11 | 13-15 | 17-19 | 20-23 |
-| Typical | 11-14 | 16-18 | 20-22 | 23-26 |
-| Challenging | 14-17 | 19-21 | 23-25 | 26-29 |
+|  Difficulty | Beginner (+0) | Experienced (+3) | Veteran (+6) | Master (+ >8) |
+| ----------: | :-----------: | :--------------: | :----------: | :-----------: |
+|        Easy |     8-11      |      13-15       |    17-19     |     20-23     |
+|     Typical |     11-14     |      16-18       |    20-22     |     23-26     |
+| Challenging |     14-17     |      19-21       |    23-25     |     26-29     |
 
 No matter the result of the Check, it is the role of the GM to translate it into the world, and use it to transition to the next moment of decision for the players.
 
-Roll Modifiers
+## Roll Modifiers
 Assets and Hindrances are roll modifiers that can influence the result of your Check. An Asset is typically a +1, 2, or 3 bonus. A Hindrance typically raises the difficulty of the Check by 1, 2, or 3. A Hindrance cannot be subtracting from your roll total - there can be no negative rolls.
 
-If an Asset or Hindrance would be raised to 4 or greater, instead keep it at 3 but modify the roll further with Advantage or Disadvantage.
+You can often do something to remove a Hindrance, or add in an Asset to your roll. This might require preparation from the turn before, using tools, or calling on a special feature.
+
+If an Asset or Hindrance would be raised to 4 or greater, instead keep it at 3 but modify the roll further with Advantage or Disadvantage. Do this for each time an Asset or Hindrance that would push beyond the 3rd during a check.
 
 When you have Advantage, roll an additional d10 and keep the two highest dice. When you have Disadvantage, roll an additional d10 and keep the two lowest dice.
 
-If both Advantage & Disadvantage apply, they cancel one another. If multiple sources of either Advantage or Disadvantage outnumber the other, then only that effect remains. No matter how many instances of Advantage or Disadvantage remain the effect applies to a roll only once.
+Advantage and Disadvantage have some special interactions with each other:
 
-You can often do something to remove a Hindrance, or add in an Asset to your roll. This might require preparation from the turn before, using tools, or calling on a special feature.
-## Untrained
-2 point Hindrance, or if complex, Disadvantage.
+- If both Advantage & Disadvantage apply, they cancel one another. 
+- If multiple sources of either Advantage or Disadvantage outnumber the other, then only that effect remains. 
+- And, no matter how many instances of Advantage or Disadvantage remain the effect applies to a roll only once.
+
+Due to these effects, Assets and Hindrances tend to have diminishing returns after a certain point.
+
+A character who has no experience with a task can suffer a Hindrance for being **Untrained**. For simple tasks this may be a 1 point Hindrance. For especially complex acts a 3 point Hindrance is better. For tasks that can be attempted but are nearly impossible without know-how, the check should fail without a roll.
